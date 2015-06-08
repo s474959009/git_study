@@ -5,4 +5,4 @@ spl_autoload_register('\\PSR\\Loader::autoload');
 
 $db = new PSR\Database();
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
